@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Flying&#39;s blog</title>
+  
+  <subtitle>最怕一生碌碌无为，还说平凡难能可贵</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-17T04:32:24.679Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>风客</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo+git 搭建属于自己的博客</title>
+    <link href="http://yoursite.com/2018/11/17/hexo-git-%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/11/17/hexo-git-搭建属于自己的博客/</id>
+    <published>2018-11-17T04:32:24.000Z</published>
+    <updated>2018-11-17T04:32:24.679Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>web进阶(一)</title>
+    <link href="http://yoursite.com/2018/11/17/web%E8%BF%9B%E9%98%B6/"/>
+    <id>http://yoursite.com/2018/11/17/web进阶/</id>
+    <published>2018-11-17T04:04:53.264Z</published>
+    <updated>2018-11-17T08:10:50.043Z</updated>
+    
+    <content type="html"><![CDATA[<p>ate: 2018-11-17 16:10:37<br>tags: 算法</p><h2 id="categories-algorithm"><a href="#categories-algorithm" class="headerlink" title="categories: algorithm"></a>categories: algorithm</h2><p><strong> web进阶(一)：</strong> <excerpt in="" index="" |="" 首页摘要=""><br>HTML/CSS<br><a id="more"></a></excerpt></p><the rest="" of="" contents="" |="" 余下全文=""></the>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ate: 2018-11-17 16:10:37&lt;br&gt;tags: 算法&lt;/p&gt;
+&lt;h2 id=&quot;categories-algorithm&quot;&gt;&lt;a href=&quot;#categories-algorithm&quot; class=&quot;headerlink&quot; title=&quot;categories: algorithm&quot;&gt;&lt;/a&gt;categories: algorithm&lt;/h2&gt;&lt;p&gt;&lt;strong&gt; web进阶(一)：&lt;/strong&gt; &lt;excerpt in=&quot;&quot; index=&quot;&quot; |=&quot;&quot; 首页摘要=&quot;&quot;&gt;&lt;br&gt;HTML/CSS&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
